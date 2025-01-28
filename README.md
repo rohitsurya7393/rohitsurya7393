@@ -60,27 +60,6 @@
 - **Technical Trainee**  
   🏢 TEKsystems Global Services (Feb 2022 – Jun 2022)  
   - Designed data warehouse models and optimized ETL workflows for Spark applications.
-
----
-
-## 📊 Featured Projects
-
-- **Real-Time Sentiment Analysis**  
-  - 🚀 Built with FastAPI (backend) and React.js (frontend).  
-  - ⚡ Scaled ETL pipeline using Apache Kafka and PostgreSQL, reducing data latency by 35%.  
-
-- **Scalable Data Lake & ETL Pipeline**  
-  - 🌐 Integrated Apache Spark, Google BigQuery, and Oracle ADW.  
-  - 📈 Developed React.js dashboards, automating reporting by 50%.
-
----
-
-## 🌟 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/rohit-moganti/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/rohithmsv)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=flat-square)](#)
-
 ---
 
 <div align="center">
