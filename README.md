@@ -25,12 +25,29 @@
 ---
 
 ### 📈 **LeetCode & Codeforces Progress**
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dante_msv?theme=dark&font=Karma&ext=heatmap" width="400">
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
   
+💡 **LeetCode Progress**
   
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv" width="400"/>
-</p>
+<img src="https://leetcard.jacoblin.cool/dante_msv?theme=dark&font=Karma&ext=heatmap" width="400">
+
+</td>
+<td align="center" width="50%">
+
+🔥 **Codeforces Progress**
+
+<img src="https://cf.leed.at?user=rohithmsv" width="400"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
