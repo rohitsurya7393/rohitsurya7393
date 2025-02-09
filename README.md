@@ -27,11 +27,9 @@
 ### 📈 **LeetCode & Codeforces Progress**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dante_msv?theme=dark&font=Karma&ext=heatmap" width="400">
-</p>
-
-<p align="center">
   <img src="https://cf.leed.at?user=rohithmsv" width="400"/>
 </p>
+
 ---
 
 ### 💻 **Tech Stack**
