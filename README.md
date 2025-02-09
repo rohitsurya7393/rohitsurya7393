@@ -18,8 +18,8 @@
 
 ### 📊 **GitHub Stats & Contributions**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-surya&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-surya&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsurya7393&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsurya7393&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
 </p>
 
 ---
