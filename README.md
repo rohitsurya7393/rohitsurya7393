@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm Rohith Moganti 👋</h1>
-
----
+<h1 align="center">Hi there, I'm Rohit Moganti 👋</h1>
 
 ### 🏆 **About Me**  
 - 🎓 **Master’s in Computer Science & Engineering** | Specializing in **Machine Learning & AI** (Graduating May 2025)  
@@ -8,7 +6,6 @@
 - 🚀 **Currently Building:** AI-Powered Resume Analyzer | Generative AI Code Autocomplete | MLOps Pipelines  
 - 📌 **Looking for:** Opportunities in **Machine Learning, AI, and Software Development**  
 - 📩 **Contact:** [rohitsurya9939@gmail.com](mailto:rohitsurya9939@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-moganti-ab30481b0/)  
-
 
 ---
 
@@ -44,7 +41,6 @@
 </table>
 
 </div>
-
 
 ---
 
