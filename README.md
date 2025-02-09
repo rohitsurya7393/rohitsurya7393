@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rohith Surya 👋</h1>
+<h1 align="center">Hi there, I'm Rohith Moganti 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohith-surya&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
@@ -6,13 +6,13 @@
 
 ---
 
-### 🏆 **About Me**
-- 🎓 **Master’s in Computer Science & Engineering** | **Specialization: Machine Learning** (Graduating May 2025)
-- 💼 **Aspiring SDE | Data Engineer | ML Engineer | Data Scientist**
-- 🚀 **Building:** AI-Powered Resume Analyzer | Generative AI Code Autocomplete | DevOps Pipeline for ML
-- 🌱 **Currently Learning:** DSA (Striver's Sheet), AWS, MLOps, AI Integrations
-- 📌 **Looking for:** Opportunities in ML, AI, Data Engineering, and Software Development
-- 📩 **Contact:** [rohith.surya@example.com](mailto:rohith.surya@example.com) | [LinkedIn](https://linkedin.com/in/rohith-surya)
+### 🏆 **About Me**  
+- 🎓 **Master’s in Computer Science & Engineering** | Specializing in **Machine Learning & AI** (Graduating May 2025)  
+- 💡 **Machine Learning & AI Enthusiast**, exploring **AI integrations & applications**  
+- 🚀 **Currently Building:** AI-Powered Resume Analyzer | Generative AI Code Autocomplete | MLOps Pipelines  
+- 📌 **Looking for:** Opportunities in **Machine Learning, AI, and Software Development**  
+- 📩 **Contact:** [rohitsurya9939@gmail.com](mailto:rohitsurya9939@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-moganti-ab30481b0/)  
+
 
 ---
 
@@ -40,7 +40,7 @@
 
 🔥 **Codeforces Progress**
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv&theme=dark" width="400"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv&theme=dark" width="400" height="200"/>
 
 
 </td>
