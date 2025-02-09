@@ -34,7 +34,7 @@
 🔥 **Codeforces Progress**
 
 <!--<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv&theme=dark" width="410" height="250"/> -->
-<img src="https://cf-stats.io/api/stats?username=rohithmsv&theme=dark" width="400"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv&theme=custom&timestamp=`date +%s`" width="400"/>
 
 
 
