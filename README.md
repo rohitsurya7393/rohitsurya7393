@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Rohith Moganti 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohith-surya&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
-</p>
-
 ---
 
 ### 🏆 **About Me**  
