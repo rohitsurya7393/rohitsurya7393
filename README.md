@@ -5,7 +5,7 @@
 - 💡 **Machine Learning & AI Enthusiast**, exploring **AI integrations & applications**  
 - 🚀 **Currently Building:** AI-Powered Resume Analyzer | Generative AI Code Autocomplete | MLOps Pipelines  
 - 📌 **Looking for:** Opportunities in **Machine Learning, AI, and Software Development**  
-- 📩 **Contact:** [rohitsurya9939@gmail.com](mailto:rohitsurya9939@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-moganti-ab30481b0/)  
+- 📩 **Contact:** [rohitsurya7393@gmail.com](mailto:rohitsurya7393@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-moganti-ab30481b0/)  
 
 ---
 
