@@ -40,7 +40,7 @@
 
 🔥 **Codeforces Progress**
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv&theme=dark" width="400" height="280"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv&theme=dark" width="410" height="250"/>
 
 
 </td>
