@@ -27,7 +27,9 @@
 ### 📈 **LeetCode & Codeforces Progress**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dante_msv?theme=dark&font=Karma&ext=heatmap" width="400">
-  <img src="https://cf.leed.at?user=rohithmsv" width="400"/>
+  <a href="https://codeforces.com/profile/rohithmsv">
+    <img src="https://img.shields.io/badge/Codeforces-rohithmsv-blue?style=for-the-badge&logo=codeforces"/>
+  </a>
 </p>
 
 ---
