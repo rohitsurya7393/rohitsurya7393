@@ -40,7 +40,7 @@
 
 🔥 **Codeforces Progress**
 
-<img src="https://cf.leed.at?user=rohithmsv" width="400"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv" width="400"/>
 
 </td>
 </tr>
