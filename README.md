@@ -3,7 +3,7 @@
 ### 🏆 **About Me**  
 - 🎓 **Master’s in Computer Science & Engineering** | Specializing in **Machine Learning & AI** (Graduating May 2025)  
 - 💡 **Machine Learning & AI Enthusiast**, exploring **AI integrations & applications**  
-- 🚀 **Currently Building:** AI-Powered Resume Analyzer | Generative AI Code Autocomplete | MLOps Pipelines  
+- 🚀 **Currently Building:** Generative AI Code Autocomplete | MLOps Pipelines  
 - 📌 **Looking for:** Opportunities in **Machine Learning, AI, and Software Development**  
 - 📩 **Contact:** [rohitsurya7393@gmail.com](mailto:rohitsurya7393@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-moganti-ab30481b0/)  
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 📈 **LeetCode & Codeforces Progress**
+### 📈 **LeetCode Progress**
 <div align="center">
 
 <table>
@@ -27,16 +27,6 @@
 💡 **LeetCode Progress**
   
 <img src="https://leetcard.jacoblin.cool/dante_msv?theme=dark&font=Karma&ext=heatmap" width="400">
-
-</td>
-<td align="center" width="50%">
-
-🔥 **Codeforces Progress**
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=rohithmsv&theme=dark" width="410" height="250"/>
-
-
-
 
 </td>
 </tr>
