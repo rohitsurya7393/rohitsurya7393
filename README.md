@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rohit Moganti 👋</h1>
+<h1 align="center">Hi there, I'm Rohit Moganti</h1>
 
 ### 🏆 **About Me**  
 - 🎓 **Master’s in Computer Science & Engineering** | Specializing in **Machine Learning & AI** (Graduating May 2025)  
