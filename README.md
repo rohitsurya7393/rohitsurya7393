@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Rohit Moganti</h1>
-<h3 align="center">🚀 Data Engineer | 📊 Machine Learning Enthusiast | ☁️ AWS Practitioner</h3>
+<h3 align="center">🚀 Data Engineer | ☁️ AWS Practitioner</h3>
 
 ---
 
@@ -7,8 +7,7 @@
 - 🎓 **Master’s in Computer Science & Engineering** (AI/ML Track) | 📅 *Graduating May 2025*
 - 🛠️ **Data Engineer** passionate about building **scalable pipelines**, **data platforms**, and **AI integrations**
 - 🧪 Exploring **Real-Time Streaming**, **MLOps**, and **Cloud-Native Data Architecture**
-- 🚀 **Current Projects:** Generative AI Code Autocomplete • Resume Analyzer • DataOps Tracker
-- 📌 **Actively Seeking:** Roles in **Data Engineering**, **Machine Learning**, and **Platform Engineering**
+- 📌 **Actively Seeking:** Roles in **Data Engineering**
 - 📫 **Reach Me At:** [rohitsurya7393@gmail.com](mailto:rohitsurya7393@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rohit-moganti-ab30481b0/)
 
 ---
