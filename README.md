@@ -42,14 +42,14 @@ Real-time **PySpark + Kafka** pipeline with a **Streamlit** dashboard for capaci
 - Simulated **50k+** events across ICU/ER/Radiology; **live 5s** refresh dashboard
 - Early detection of **85%+** utilization spikes
 - **Tech:** PySpark, Kafka, Streamlit, Pandas, Time-series
-> 🔗 **Demo/Repo:** *(add your link here)*
+
 
 #### 🧾 AI‑Powered Medical Prescription Extractor
 OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using **AWS Textract** and **Hugging Face**.
 - Achieved **~92% parsing accuracy** on 300+ docs
 - **Streamlit** validation UI; **PostgreSQL** for structured storage
 - **Tech:** AWS Textract, Transformers, Pandas, Streamlit, PostgreSQL
-> 🔗 **Demo/Repo:** *(add your link here)*
+
 
 ---
 
@@ -77,7 +77,7 @@ OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using
 ---
 
 <details>
-  <summary><b>Interactive: Click to open my current focus</b></summary>
+  <summary><b> Click to open my current focus</b></summary>
 
 - Building a **Kafka-to-Lakehouse** demo with **dbt** transformations  
 - Experimenting with **agentic AI** to auto-remediate pipeline failures  
@@ -93,7 +93,4 @@ OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using
   <a href="https://www.linkedin.com/in/rohit-moganti-ab30481b0/"><img alt="Message on LinkedIn" src="https://img.shields.io/badge/Message%20on-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<!-- Animated contribution snake (enable via GitHub Action below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitsurya7393/rohitsurya7393/output/snake.svg" alt="snake animation" />
-</p>
+
