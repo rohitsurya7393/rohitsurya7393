@@ -55,11 +55,12 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub and Leetcode Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsurya7393&theme=dark&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsurya7393&show_icons=true&theme=dark&hide_border=true" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/dante_msv?theme=dark&font=Karma&ext=heatmap" width="400">
+
 </div>
 
 ---
