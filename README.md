@@ -53,7 +53,7 @@ OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using
 
 ---
 
-### Stats (Side‑by‑Side, Same Height)
+### Statistics (Side‑by‑Side, Same Height)
 <!-- Using equal heights keeps layout consistent even if one fails chNAto load -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsurya7393&theme=dark&hide_border=true" height="170" />
