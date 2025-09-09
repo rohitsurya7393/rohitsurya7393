@@ -1,6 +1,6 @@
 <!-- Centered animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Rohit+Moganti;Software+Engineer+%7C+Java+%7C+Python+%7C+Cloud;I+build+scalable+apps+%26+high-performance+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Surya+Moganti;Software+Engineer+%7C+Java+%7C+Python+%7C+Cloud;I+build+scalable+apps+%26+high-performance+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
