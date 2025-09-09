@@ -1,6 +1,6 @@
 <!-- Centered animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Rohit+Moganti;Data+Engineer+%7C+AWS+%7C+AI%2FML+Practicalist;I+build+scalable+data+systems+%26+real-time+analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Rohit+Moganti;Software+Engineer+%7C+Java+%7C+Python+%7C+Cloud;I+build+scalable+apps+%26+high-performance+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,55 +12,54 @@
 ---
 
 ### About Me
-- 🎓 **MS in Computer Science & Engineering (AI/ML)** — *Graduating May 2025*
-- 🏗️ Data Engineer focused on **streaming pipelines**, **lakehouse modeling**, and **cloud-native ETL**
-- 🧪 Currently exploring **MLOps**, **time-series**, and **agentic AI integrations**
-- 📌 **Open to**: Data Engineering / ML Engineering roles
+- 🎓 **MS in Computer Science & Engineering** — *Graduating May 2025*
+- 💻 Software Engineer focused on **backend systems**, **cloud-native services**, and **scalable architectures**
+- 🔬 Currently exploring **Java Spring Boot**, **microservices**, and **system design for distributed apps**
+- 📌 **Open to**: Software Engineering / Backend / Full-Stack roles
 
 ---
 
 ### Tech I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,git,github,docker,kubernetes,aws" />
-  <br/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,react,nodejs,spring,linux,git,github,docker,kubernetes,aws" />
   <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
 ### Featured Work
 
-#### 🏥 Hospital Resource Usage Tracker
-Real-time **PySpark + Kafka** pipeline with a **Streamlit** dashboard for capacity monitoring and **time-series anomaly detection**.
-- Simulated **50k+** events across ICU/ER/Radiology; **live 5s** refresh dashboard
-- Early detection of **85%+** utilization spikes
-- **Tech:** PySpark, Kafka, Streamlit, Pandas, Time-series
+#### 🛒 E-Commerce Order Management System
+Backend system to manage **orders, payments, and inventory** with **REST APIs** and relational DB integration.  
+- Built scalable APIs handling **10k+ requests/min** with **Spring Boot + PostgreSQL**  
+- Added caching with **Redis**, improving response times by **35%**  
+- **Tech:** Java, Spring Boot, PostgreSQL, Redis, Docker
 
+#### 💬 Real-Time Chat Application
+Full-stack messaging platform with authentication and WebSocket-based real-time chat.  
+- Designed **microservices backend** with Node.js + Express, JWT auth  
+- Built **React frontend** with dark mode + chatroom UI  
+- Deployed on **AWS ECS** with CI/CD pipelines  
+- **Tech:** Node.js, React, WebSockets, AWS, Docker, GitHub Actions  
 
-#### 🧾 AI‑Powered Medical Prescription Extractor
-OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using **AWS Textract** and **Hugging Face**.
-- Achieved **~92% parsing accuracy** on 300+ docs
-- **Streamlit** validation UI; **PostgreSQL** for structured storage
-- **Tech:** AWS Textract, Transformers, Pandas, Streamlit, PostgreSQL
-
+#### 📊 Personal Finance Tracker (Side Project)
+Web app to track expenses, categorize transactions, and visualize trends.  
+- Developed REST APIs with **Flask + SQLite**  
+- Integrated **Chart.js dashboards** for interactive reports  
+- **Tech:** Python, Flask, SQLite, Chart.js  
 
 ---
 
-### Statistics (Side‑by‑Side, Same Height)
-<!-- Using equal heights keeps layout consistent even if one fails chNAto load -->
+### Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsurya7393&theme=dark&hide_border=true" height="170" />
   <img src="https://leetcard.jacoblin.cool/dante_msv?theme=dark&font=Inter&ext=heatmap" height="170" />
 </p>
 
-<!-- Optional: add a second row with overall stats + top languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitsurya7393&show_icons=true&theme=dark&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsurya7393&layout=compact&theme=dark&hide_border=true" height="160" />
@@ -69,19 +68,19 @@ OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using
 ---
 
 ### Quick Highlights
-- ⚙️ Built **production-grade ETL/ELT** and **data quality** checks
-- ⚡ Real-time **stream processing** and **time-series analytics**
-- ☁️ AWS-first mindset: **S3, Lambda, Glue, Athena**, IAM, CI/CD
-- 📐 Dimensional modeling, lakehouse patterns, and cost-aware design
+- ⚙️ Built **production-grade APIs** and **microservices** with CI/CD pipelines  
+- 🌐 Experience in **frontend + backend** integration for full-stack apps  
+- ☁️ Cloud deployments using **AWS ECS, Lambda, S3, RDS**  
+- 📐 Strong grounding in **system design, OOP, and distributed systems**
 
 ---
 
 <details>
   <summary><b> Click to open my current focus</b></summary>
 
-- Building a **Kafka-to-Lakehouse** demo with **dbt** transformations  
-- Experimenting with **agentic AI** to auto-remediate pipeline failures  
-- Publishing **deep-dive writeups** on streaming backpressure & checkpointing  
+- Developing a **Spring Boot microservice** with JWT security and Docker deployment  
+- Experimenting with **Kubernetes autoscaling** for service workloads  
+- Building **Java + React projects** to sharpen full-stack skills  
 
 </details>
 
@@ -92,5 +91,3 @@ OCR + NLP pipeline to parse **patient/medicine/dosage** from prescriptions using
   <a href="mailto:rohitsurya7393@gmail.com"><img alt="Hire Me" src="https://img.shields.io/badge/Hire%20Me-Email%20Rohit-ff6f61?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rohit-moganti-ab30481b0/"><img alt="Message on LinkedIn" src="https://img.shields.io/badge/Message%20on-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-
