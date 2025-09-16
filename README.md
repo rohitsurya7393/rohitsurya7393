@@ -31,29 +31,6 @@
 
 ---
 
-### Featured Work
-
-#### 🛒 E-Commerce Order Management System
-Backend system to manage **orders, payments, and inventory** with **REST APIs** and relational DB integration.  
-- Built scalable APIs handling **10k+ requests/min** with **Spring Boot + PostgreSQL**  
-- Added caching with **Redis**, improving response times by **35%**  
-- **Tech:** Java, Spring Boot, PostgreSQL, Redis, Docker
-
-#### 💬 Real-Time Chat Application
-Full-stack messaging platform with authentication and WebSocket-based real-time chat.  
-- Designed **microservices backend** with Node.js + Express, JWT auth  
-- Built **React frontend** with dark mode + chatroom UI  
-- Deployed on **AWS ECS** with CI/CD pipelines  
-- **Tech:** Node.js, React, WebSockets, AWS, Docker, GitHub Actions  
-
-#### 📊 Personal Finance Tracker (Side Project)
-Web app to track expenses, categorize transactions, and visualize trends.  
-- Developed REST APIs with **Flask + SQLite**  
-- Integrated **Chart.js dashboards** for interactive reports  
-- **Tech:** Python, Flask, SQLite, Chart.js  
-
----
-
 ### Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsurya7393&theme=dark&hide_border=true" height="170" />
