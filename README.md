@@ -1,6 +1,6 @@
 <!-- Centered animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Surya+Moganti;Software+Engineer+%7C+Java+%7C+Python+%7C+Cloud;I+build+scalable+apps+%26+high-performance+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Surya+Moganti;Data+Engineer+%7C+Java+%7C+Python+%7C+Cloud;I+build+scalable+apps+%26+high-performance+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ### About Me
 - 🎓 **MS in Computer Science & Engineering** — *Graduating May 2025*
-- 💻 Software Engineer focused on **backend systems**, **cloud-native services**, and **scalable architectures**
-- 🔬 Currently exploring **Java Spring Boot**, **microservices**, and **system design for distributed apps**
-- 📌 **Open to**: Software Engineering / Backend / Full-Stack roles
+- 💻 Data Engineer focused on **BigData systems**, **cloud-native services**, and **scalable architectures**
+- 🔬 Currently exploring **DBT**, **Airflow**, and **system design for distributed apps**
+- 📌 **Open to**: Data Engineering / Backend 
 
 ---
 
