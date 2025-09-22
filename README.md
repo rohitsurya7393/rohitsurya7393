@@ -46,7 +46,6 @@
 
 ### Quick Highlights
 - ⚙️ Built **production-grade APIs** and **microservices** with CI/CD pipelines  
-- 🌐 Experience in **frontend + backend** integration for full-stack apps  
 - ☁️ Cloud deployments using **AWS ECS, Lambda, S3, RDS**  
 - 📐 Strong grounding in **system design, OOP, and distributed systems**
 
